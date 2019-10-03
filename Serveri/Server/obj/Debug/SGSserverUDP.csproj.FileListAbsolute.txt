@@ -1,0 +1,16 @@
+C:\Users\Eliron\Desktop\UDP Chat\SGSserverUDP\Server\bin\Debug\Server.exe
+C:\Users\Eliron\Desktop\UDP Chat\SGSserverUDP\Server\bin\Debug\Server.pdb
+C:\Users\Eliron\Desktop\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.SGSserverForm.resources
+C:\Users\Eliron\Desktop\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Eliron\Desktop\UDP Chat\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+C:\Users\Eliron\Desktop\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.exe
+C:\Users\Eliron\Desktop\UDP Chat\SGSserverUDP\Server\obj\Debug\Server.pdb
+C:\Users\Eliron\Desktop\UDP Chat\SGSserverUDP\Server\obj\Debug\SGSserverUDP.csprojResolveAssemblyReference.cache
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Serveri\Server\bin\Debug\Server.exe
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Serveri\Server\bin\Debug\Server.pdb
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Serveri\Server\obj\Debug\SGSserverUDP.csprojResolveAssemblyReference.cache
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Serveri\Server\obj\Debug\Server.SGSserverForm.resources
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Serveri\Server\obj\Debug\Server.Properties.Resources.resources
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Serveri\Server\obj\Debug\SGSserverUDP.csproj.GenerateResource.Cache
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Serveri\Server\obj\Debug\Server.exe
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Serveri\Server\obj\Debug\Server.pdb

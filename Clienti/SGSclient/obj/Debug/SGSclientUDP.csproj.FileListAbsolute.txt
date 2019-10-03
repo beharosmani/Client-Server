@@ -1,0 +1,18 @@
+C:\Users\Eliron\Desktop\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.exe
+C:\Users\Eliron\Desktop\UDP Chat\SGSclientUDP\SGSclient\bin\Debug\SGSclient.pdb
+C:\Users\Eliron\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csprojResolveAssemblyReference.cache
+C:\Users\Eliron\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+C:\Users\Eliron\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+C:\Users\Eliron\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclientUDP.csproj.GenerateResource.Cache
+C:\Users\Eliron\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.exe
+C:\Users\Eliron\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.pdb
+C:\Users\Eliron\Desktop\UDP Chat\SGSclientUDP\SGSclient\obj\Debug\SGSclient.Klienti.resources
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Clienti\SGSclient\bin\Debug\SGSclient.exe
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Clienti\SGSclient\bin\Debug\SGSclient.pdb
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Clienti\SGSclient\obj\Debug\SGSclientUDP.csprojResolveAssemblyReference.cache
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Clienti\SGSclient\obj\Debug\SGSclient.Klienti.resources
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Clienti\SGSclient\obj\Debug\SGSclient.LoginForm.resources
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Clienti\SGSclient\obj\Debug\SGSclient.Properties.Resources.resources
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Clienti\SGSclient\obj\Debug\SGSclientUDP.csproj.GenerateResource.Cache
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Clienti\SGSclient\obj\Debug\SGSclient.exe
+D:\U\Projektet\Proj.Siguri\Proj.Siguri_2\Clienti\SGSclient\obj\Debug\SGSclient.pdb
